@@ -1,0 +1,2 @@
+﻿  main.cpp
+LINK : : error LNK1104: не удается открыть файл "tbb_debug.lib"
