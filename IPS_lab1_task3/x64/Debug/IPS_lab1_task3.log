@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\pavel\source\repos\ips_lab1_task3\main.cpp(6): fatal error C1083: Не удается открыть файл включение: cilk/cilk.h: No such file or directory,
