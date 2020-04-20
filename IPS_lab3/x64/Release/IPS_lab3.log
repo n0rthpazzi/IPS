@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Pavel\source\repos\IPS\IPS_lab3\main.cpp(90): warning #3947: "_Cilk_for" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
+    		cilk_for (int i = k + 1; i < rows; ++i)
+    		^
+  
+  IPS_lab3.vcxproj -> C:\Users\Pavel\source\repos\IPS\IPS_lab3\x64\Release\IPS_lab3.exe
