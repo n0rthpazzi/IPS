@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+  <file name="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h" md5="">
+    <snippet line="643">
+      <line line="640">    #else</line>
+      <line line="641">    {</line>
+      <line line="642">        return __stdio_common_vfprintf(_CRT_INTERNAL_LOCAL_PRINTF_OPTIONS, _Stream, _Format, _Locale, _ArgList);</line>
+      <line line="643">    }</line>
+      <line line="644">    #endif</line>
+    </snippet>
+  </file>
+</snippets>

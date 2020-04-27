@@ -1,0 +1,50 @@
+
+=== Start: [2020/04/27 13:05:53] === 
+Analysis started...
+Result file: C:\Users\Pavel\source\repos\IPS\task_for_lecture5\My Inspector Results - task_for_lecture5\r000ti3\r000ti3.inspxe 
+Found target process c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe (PID = 7236). Analysis started... 
+Loaded module: c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe. 
+Loaded module: c:\windows\system32\kernelbase.dll. 
+Loaded module: c:\windows\system32\kernel32.dll. 
+Loaded module: c:\windows\system32\ntdll.dll. 
+Loaded module: c:\windows\system32\ucrtbase.dll. 
+Loaded module: c:\windows\system32\vcruntime140.dll. 
+Loaded module: c:\windows\system32\msvcp140.dll. 
+Loaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll. 
+Loaded module: c:\windows\system32\vcruntime140_1.dll. 
+Loaded module: c:\windows\system32\user32.dll. 
+Loaded module: c:\windows\system32\win32u.dll. 
+Loaded module: c:\windows\system32\gdi32.dll. 
+Loaded module: c:\windows\system32\gdi32full.dll. 
+Loaded module: c:\windows\system32\msvcp_win.dll. 
+Loaded module: c:\windows\system32\imm32.dll. 
+Loaded module: c:\program files (x86)\intelswtools\inspector 2019\bin64\runtime\libittnotify.dll. 
+Loaded module: c:\windows\system32\kernel.appcore.dll. 
+Loaded module: c:\windows\system32\msvcrt.dll. 
+Loaded module: c:\windows\system32\rpcrt4.dll. 
+Warning: One or more threads in the application accessed the stack of another thread. This may indicate one or more bugs in your application. Setting the Inspector to detect data races on stack accesses and running another analysis may help you locate these and other bugs.
+Warning: Inspector does not support the Microsoft Parallel Patterns Library and may report false positives. Refer to the product release notes. 
+Unloaded module: c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe. 
+Unloaded module: c:\windows\system32\kernelbase.dll. 
+Unloaded module: c:\windows\system32\kernel32.dll. 
+Unloaded module: c:\windows\system32\ntdll.dll. 
+Unloaded module: c:\windows\system32\ucrtbase.dll. 
+Unloaded module: c:\windows\system32\vcruntime140.dll. 
+Unloaded module: c:\windows\system32\msvcp140.dll. 
+Unloaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll. 
+Unloaded module: c:\windows\system32\vcruntime140_1.dll. 
+Unloaded module: c:\windows\system32\user32.dll. 
+Unloaded module: c:\windows\system32\win32u.dll. 
+Unloaded module: c:\windows\system32\gdi32.dll. 
+Unloaded module: c:\windows\system32\gdi32full.dll. 
+Unloaded module: c:\windows\system32\msvcp_win.dll. 
+Unloaded module: c:\windows\system32\imm32.dll. 
+Unloaded module: c:\program files (x86)\intelswtools\inspector 2019\bin64\runtime\libittnotify.dll. 
+Unloaded module: c:\windows\system32\kernel.appcore.dll. 
+Unloaded module: c:\windows\system32\msvcrt.dll. 
+Unloaded module: c:\windows\system32\rpcrt4.dll. 
+Process c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe (PID = 7236) has terminated. 
+Application exit code: 0 
+Result file: C:\Users\Pavel\source\repos\IPS\task_for_lecture5\My Inspector Results - task_for_lecture5\r000ti3\r000ti3.inspxe 
+Analysis completed
+=== End: [2020/04/27 13:06:03] === 

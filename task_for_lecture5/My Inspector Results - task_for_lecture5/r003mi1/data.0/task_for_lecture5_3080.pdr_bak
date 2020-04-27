@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diags major="2" minor="0">
+
+<diag id="1">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>440542615</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>12488</threadid>
+			<stackstamp>440568788</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe</mod>
+				<rva>0x46e4</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="2">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>3478272024</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>7064</threadid>
+			<stackstamp>3478738747</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x20e30</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="3">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>3622983707</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>9876</threadid>
+			<stackstamp>3622995968</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x20e30</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="4">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>3624426502</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>12640</threadid>
+			<stackstamp>3624470620</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll</mod>
+				<rva>0x1a630</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="5">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>3625740194</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>9236</threadid>
+			<stackstamp>3625750352</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll</mod>
+				<rva>0x1a630</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="6">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>3626895923</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>14236</threadid>
+			<stackstamp>3626920987</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll</mod>
+				<rva>0x1a630</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="7">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>3628042951</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>3428</threadid>
+			<stackstamp>3628086966</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll</mod>
+				<rva>0x1a630</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="8">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>3629281943</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>9212</threadid>
+			<stackstamp>3629292778</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll</mod>
+				<rva>0x1a630</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="9">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>3630636800</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>13248</threadid>
+			<stackstamp>3630646706</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll</mod>
+				<rva>0x1a630</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="10">
+	<type description="ThreadStart">233</type>
+	<message>
+		<timestamp>3631540144</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>8416</threadid>
+			<stackstamp>3631549986</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll</mod>
+				<rva>0x1a630</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="11">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3632602363</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>7064</threadid>
+			<stackstamp>3632612142</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="12">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3632942399</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>9876</threadid>
+			<stackstamp>3632952269</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="13">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3643332942</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>3428</threadid>
+			<stackstamp>3643342873</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="14">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3643496813</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>8416</threadid>
+			<stackstamp>3643506407</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="15">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3643654425</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>9212</threadid>
+			<stackstamp>3643664073</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="16">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3643810640</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>9236</threadid>
+			<stackstamp>3643820187</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="17">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3643966250</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>12488</threadid>
+			<stackstamp>3643975846</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="18">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3644121964</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>12640</threadid>
+			<stackstamp>3644131550</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="19">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3644278789</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>13248</threadid>
+			<stackstamp>3644288410</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="20">
+	<type description="ThreadEnd">231</type>
+	<message>
+		<timestamp>3644434639</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>14236</threadid>
+			<stackstamp>3644444209</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="21">
+	<type>1016</type>
+	<message>
+		<timestamp>3648818533</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>100</size>
+			<threadid>12488</threadid>
+			<stackstamp>3473997861</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x1146d</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x1c63d</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x1bd3b</rva>
+			</loc>
+			<loc>
+				<mod>c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe</mod>
+				<rva>0x44d9</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x1bc52</rva>
+			</loc>
+			<loc>
+				<mod>c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe</mod>
+				<rva>0x45c7</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\kernel32.dll</mod>
+				<rva>0x17bd3</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\ntdll.dll</mod>
+				<rva>0x6ce50</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="22">
+	<type>1016</type>
+	<message>
+		<timestamp>3648818533</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>4096</size>
+			<threadid>12488</threadid>
+			<stackstamp>3474131570</stackstamp>
+			<stacktrace>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x7121</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x22737</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x228f6</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\ucrtbase.dll</mod>
+				<rva>0x22993</rva>
+			</loc>
+			<loc>
+				<mod>c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe</mod>
+				<rva>0x2084</rva>
+			</loc>
+			<loc>
+				<mod>c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe</mod>
+				<rva>0x11dc</rva>
+			</loc>
+			<loc>
+				<mod>c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe</mod>
+				<rva>0x4673</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\kernel32.dll</mod>
+				<rva>0x17bd3</rva>
+			</loc>
+			<loc>
+				<mod>c:\windows\system32\ntdll.dll</mod>
+				<rva>0x6ce50</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+</diags>

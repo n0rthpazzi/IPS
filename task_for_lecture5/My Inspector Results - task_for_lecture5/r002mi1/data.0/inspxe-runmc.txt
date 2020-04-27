@@ -1,0 +1,31 @@
+
+=== Start: [2020/04/27 13:10:08] === 
+Analysis started...
+Result file: C:\Users\Pavel\source\repos\IPS\task_for_lecture5\My Inspector Results - task_for_lecture5\r002mi1\r002mi1.inspxe 
+Analysis started for c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe (pid = 1152) 
+Loaded module: c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe, address range [0x7ff7776e0000-0x7ff7776f0fff] 
+Loaded module: c:\windows\system32\kernelbase.dll, address range [0x7ffe78610000-0x7ffe788b2fff], minimal analysis 
+Loaded module: c:\windows\system32\kernel32.dll, address range [0x7ffe7aa10000-0x7ffe7aac1fff], minimal analysis 
+Loaded module: c:\windows\system32\ntdll.dll, address range [0x7ffe7ac60000-0x7ffe7ae4ffff], minimal analysis 
+Loaded module: c:\program files (x86)\intelswtools\inspector 2019\bin64\dnclrprofinfo.dll, address range [0x7ffe5c210000-0x7ffe5c238fff] 
+Loaded module: c:\windows\system32\ucrtbase.dll, address range [0x2399ef60000-0x2399f059fff] 
+Loaded module: c:\windows\system32\msvcp140.dll, address range [0x7ffe4d430000-0x7ffe4d4c0fff] 
+Loaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2019\windows\redist\intel64\compiler\cilkrts20.dll, address range [0x7ffe4ff10000-0x7ffe4ff62fff], minimal analysis 
+Loaded module: c:\windows\system32\user32.dll, address range [0x7ffe79090000-0x7ffe79223fff], minimal analysis 
+Loaded module: c:\windows\system32\win32u.dll, address range [0x7ffe78b10000-0x7ffe78b30fff] 
+Loaded module: c:\windows\system32\gdi32.dll, address range [0x7ffe7a420000-0x7ffe7a445fff], minimal analysis 
+Loaded module: c:\windows\system32\gdi32full.dll, address range [0x7ffe78b40000-0x7ffe78cd3fff], minimal analysis 
+Loaded module: c:\windows\system32\msvcp_win.dll, address range [0x7ffe78a70000-0x7ffe78b0dfff] 
+Loaded module: c:\windows\system32\vcruntime140.dll, address range [0x7ffe64b50000-0x7ffe64b68fff] 
+Loaded module: c:\windows\system32\vcruntime140_1.dll, address range [0x7ffe72180000-0x7ffe7218bfff] 
+Loaded module: c:\windows\system32\imm32.dll, address range [0x7ffe79490000-0x7ffe794bdfff], minimal analysis 
+Loaded module: c:\program files (x86)\intelswtools\inspector 2019\bin64\runtime\libittnotify.dll, address range [0x7ffe5c090000-0x7ffe5c0c3fff], minimal analysis 
+Loaded module: c:\windows\system32\kernel.appcore.dll, address range [0x7ffe77b50000-0x7ffe77b60fff] 
+Loaded module: c:\windows\system32\msvcrt.dll, address range [0x7ffe794d0000-0x7ffe7956dfff], minimal analysis 
+Loaded module: c:\windows\system32\rpcrt4.dll, address range [0x2399bf00000-0x2399c01ffff], minimal analysis 
+Process c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe exited with code 0. Leak analysis starting. Please wait... 
+Completed analysis for c:\users\pavel\source\repos\ips\task_for_lecture5\x64\release\task_for_lecture5.exe 
+Application exit code: 0 
+Result file: C:\Users\Pavel\source\repos\IPS\task_for_lecture5\My Inspector Results - task_for_lecture5\r002mi1\r002mi1.inspxe 
+Analysis completed
+=== End: [2020/04/27 13:10:14] === 

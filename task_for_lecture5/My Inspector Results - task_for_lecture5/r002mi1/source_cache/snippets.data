@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+  <file name="C:\Users\Pavel\source\repos\IPS\task_for_lecture5\task_for_lecture5.cpp" md5="">
+    <snippet line="144">
+      <line line="141">        const size_t numb_cols = 3;</line>
+      <line line="142"/>
+      <line line="143">        double** matrix = new double*[numb_rows];</line>
+      <line line="144">        for ( size_t i = 0; i &lt; numb_rows; ++i )</line>
+      <line line="145">        {</line>
+    </snippet>
+  </file>
+</snippets>

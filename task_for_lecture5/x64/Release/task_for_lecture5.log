@@ -1,0 +1,6 @@
+﻿  task_for_lecture5.cpp
+C:\Users\Pavel\source\repos\IPS\task_for_lecture5\task_for_lecture5.cpp(60): warning #3947: "_Cilk_for" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
+    			cilk_for ( size_t i = 0; i < numb_rows; ++i )
+    			^
+  
+  task_for_lecture5.vcxproj -> C:\Users\Pavel\source\repos\IPS\task_for_lecture5\x64\Release\task_for_lecture5.exe
