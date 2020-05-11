@@ -1,0 +1,15 @@
+-r
+C:\Users\Pavel\source\repos\IPS\task_for_lecture7\VTune Amplifier Results\task_for_lecture7\r003hs
+--stack-stitching
+--data-limit-mb=1000
+--disk-space-limit=0
+--mrte-type=java,dotnet,python
+--itt-config=frame
+--itt-config=task,event,counter
+--stackwalk=offline
+--mrte-mode=auto
+--type=cpu:counters:nostack
+--type=cpu:stack
+--interval=10
+--
+C:\Users\Pavel\source\repos\IPS\task_for_lecture7\x64\Release\task_for_lecture7.exe

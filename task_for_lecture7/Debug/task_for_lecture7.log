@@ -1,0 +1,3 @@
+﻿  task_lecture_7.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  task_for_lecture7.vcxproj -> C:\Users\Pavel\source\repos\IPS\task_for_lecture7\Debug\task_for_lecture7.exe
